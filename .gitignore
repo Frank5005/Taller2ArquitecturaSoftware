@@ -1,0 +1,17 @@
+# Ignore the build directory
+build/
+
+# Ignore Dart tool specific files
+.dart_tool/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Flutter specific files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.flutter-plugins
